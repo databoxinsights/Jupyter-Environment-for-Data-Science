@@ -13,7 +13,7 @@
 
 * Navigate to the folder directory where you want the virtualenv installed 
 * mkvirtualenv envname
-* setprojectdir. # setting this make this the default directory for your virtualenv; easy to activate later. 
+* setprojectdir . # setting this make this the default directory for your virtualenv; easy to activate later. 
 * pip list # you can see there are no currently installed packages
 
 ### Step 3: 
