@@ -4,9 +4,16 @@
 
 ### Step 1: Install pre-requisites
 
+
+***Note: if using Conda, and you do not have pip installed run this code first before running Step 1***
+https://anaconda.org/anaconda/pip 
+
+> conda install -c anaconda pip
+
 * pip install --upgrade pip
 * pip install virtualenv
 * pip install virtualenvwrapper-win
+
 
 
 ### Step 2: Create a directory for your virtualenv
