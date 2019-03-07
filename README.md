@@ -13,6 +13,7 @@ https://anaconda.org/anaconda/pip
 
 > conda install -c anaconda pip
 
+* open a cmd prompt through windows start menu. Or WINDOWS + R, cmd, enter. 
 * pip install --upgrade pip
 * pip install virtualenv
 * pip install virtualenvwrapper-win
