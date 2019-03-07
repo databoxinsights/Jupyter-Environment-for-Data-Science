@@ -2,12 +2,11 @@
 
 ## How to create a Jupyter Environment with Core Data Science Packages
 
-## Choose & Install a Python Distribution. Eithe works fine. 
+### Choose & Install a Python Distribution. Either works fine. 
 <br>**Option 1**: Anaconda Python https://www.anaconda.com/distribution/
 <br>**Option 2**: Python https://www.python.org/downloads/
 
-### Step 1: Install pre-requisites
-
+### Step 1: Install pre-requisite packages 
 
 ***Note: if using Conda, and you do not have pip installed run this code first before running Step 1***
 https://anaconda.org/anaconda/pip 
